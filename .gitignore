@@ -1,0 +1,15 @@
+.terraform
+.terraform.tfstate
+.terraform.tfstate.backup
+*.tfstate*
+**/.terraform/*
+kubeconfig*
+.vscode
+
+# OS generated files [Begin] #
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
+# OS generated files [end] #
